@@ -4,8 +4,12 @@ Este repositório documenta meu processo de aprendizado e implementação de má
 
 ## 📝 Conteúdo do Repositório
 - `README.md`: Documentação principal (este arquivo)
-- `/images`: Capturas de tela relevantes (opcional)
+- `/images`: Capturas de tela relevantes
 - `cheatsheet-azure-vm.md`: Comandos úteis e dicas rápidas
+
+  ### Tipos de Nuvens
+![Nuvens Públicas](images/nuvem-publica.png)
+![Nuvens Privadas](images/nuvem-privada.png)
 
 ## 🔍 Passo a Passo para Criação de VM no Azure
 
