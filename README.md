@@ -4,10 +4,12 @@ Este repositório documenta meu processo de aprendizado e implementação de má
 
 ## 📝 Conteúdo do Repositório
 - `README.md`: Documentação principal (este arquivo)
-- `/images`: Capturas de tela relevantes
+- `/images`: Capturas de tela relevantes (opcional)
 - `cheatsheet-azure-vm.md`: Comandos úteis e dicas rápidas
 
-  ### Tipos de Nuvens
+## 📸 Capturas de Tela
+
+### Tipos de Nuvens
 ![Nuvens Públicas](images/nuvem-publica.png)
 ![Nuvens Privadas](images/nuvem-privada.png)
 
